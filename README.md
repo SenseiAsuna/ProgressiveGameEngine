@@ -12,7 +12,7 @@ References Used:
 
 [4] Kingdom of Fantasy music: Lesfm, L. (2021) Kingdom of Fantasy (version 60s) | Royalty Free Music - Pixabay, Pixabay. Available at: https://pixabay.com/music/main-title-kingdom-of-fantasy-version-60s-10817/ (Accessed: April 23, 2023). 
 
-=============================================================  Packages/Plugins ===========================================================================
+============================ Packages/Plugins ========================
 [5] Enviroments, A.I. (2022) Stylized Eastern Village, Unreal Engine. Available at: https://www.unrealengine.com/marketplace/en-US/item/84f7065144444ac6a22521743a0e1205 (Accessed: February 20, 2023). 
 
 [6] Characters, D.-M. (2018) Wizard for Battle : PBR, Unreal Engine. Available at: https://www.unrealengine.com/marketplace/en-US/product/battle-wizard-pbr (Accessed: February 20, 2023). 
