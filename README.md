@@ -1,9 +1,11 @@
 # Fantasy Mage!
-Welcome to Fantasy Mage, where you play as a mage, explore your world, defeat other mages and defend your village! You will exprience a vast and beautiful world, for casual gamers 
+
+Welcome to Fantasy Mage, where you play as a mage, explore your world, defeat other mages and defend your village! You will be immersed in a beautiful style world with a village and home to protect from evil mages. Defeat them in order to keep you and your home safe.
 
 *Please note that things will not work properly and not everything will be perfect.
 
 References Used:
+
 [1] Tinkerbelle Music: geoffharvey, geoffharvey (2023) Tinkerbelle | Royalty Free Music - Pixabay, Pixabay. Available at: https://pixabay.com/music/fantasy-dreamy-childrens-tinkerbelle-144338/ (Accessed: April 23, 2023). 
 
 [2] Spring Waltz Music: geoffharvey, geoffharvey (2023) Spring Waltz of the Glen | Royalty Free Music - Pixabay, Pixabay. Available at: https://pixabay.com/music/main-title-spring-waltz-of-the-glen-145324/ (Accessed: April 23, 2023). 
